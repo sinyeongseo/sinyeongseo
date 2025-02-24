@@ -1,7 +1,10 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7cc5fe,100:0091ff&height=180&text=Yeongseo's%20GitHub&animation=fadeIn&fontColor=e0eaff&fontSize=70" />
 </div>
-
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🙋‍♀️ Who I AM?</h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Aspiring full-stack developer who never stops learning and strives for better code.</div> 
+</div>
 <div align="center"> 
     <h2>🛠️ Tech Stacks</h2>  
     <div>
@@ -68,3 +71,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinyeongseo&layout=compact&bg_color=60,b8e0ff,85c4ff&title_color=ffffff&text_color=ffffff"/>
     </div>
 </div>
+
+
+
+
+    
